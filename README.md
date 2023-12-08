@@ -190,3 +190,4 @@ i'll begin by acknowledging the amazing guys at python,github and bootstrap,font
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+# steg
